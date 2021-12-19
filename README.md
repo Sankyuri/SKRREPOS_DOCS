@@ -23,6 +23,14 @@ SVG image of Seiun Sky (Uma-musume)
 Test program for Interpreter, Chain of Responsibility and Strategy patterns. 
 
 
+## SKRPA
+Repositories of **P**roject of smartphone **A**pps.<br />
+Repository Exists: 1
+
+### SKRPA001_NTF_FLLSWCR
+Notification Flashlight Switcher.
+
+
 ## SKRPG
 Repositories of **P**roject of **G**ame.<br/>
 Repository Exists: 4
