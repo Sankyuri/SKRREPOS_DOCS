@@ -21,6 +21,8 @@ Repository Exists: 2
 SVG image of Seiun Sky (Uma-musume)
 ### SKREX002_ITPTR_COR_STRGY
 Test program for Interpreter, Chain of Responsibility and Strategy patterns. 
+### SKREX003_CHOCOBAR (Feb 22 2022)
+My hand-maid Chocolate Bar!
 
 
 ## SKRPA
