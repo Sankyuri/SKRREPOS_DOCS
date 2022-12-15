@@ -35,7 +35,7 @@ Notification Flashlight Switcher.
 
 ## SKRPG
 Repositories of **P**roject of **G**ame.<br/>
-Repository Exists: 4
+Repository Exists: 6
 
 ### [](SKRPG001_CRLANE (Private))
 ### [](SKRPG002_KKTL (Private))
