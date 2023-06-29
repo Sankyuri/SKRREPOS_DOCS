@@ -27,10 +27,12 @@ My hand-maid Chocolate Bar!
 
 ## SKRPA
 Repositories of **P**roject of smartphone **A**pps.<br />
-Repository Exists: 1
+Repository Exists: 2
 
 ### SKRPA001_NTF_FLLSWCR
 Notification Flashlight Switcher.
+### SKRPA002_HLGI_BOOTER
+HoYoLAB and Genshin Impact Booter.
 
 
 ## SKRPG
