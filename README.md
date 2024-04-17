@@ -87,7 +87,7 @@ IPCH Files Destroyer.
 
 ## Other
 Forked repository, document or test.<br/>
-Repository Exists: 3
+Repository Exists: 4
 
 ### SKRREPOS_DOCS
 This.
@@ -96,6 +96,8 @@ testesdes.
 ### VS-JumpToEndOfWord
 Forked from [stiffsen/VS-JumpToEndOfWord](https://github.com/stiffsen/VS-JumpToEndOfWord).<br/>
 Visual Studio extension. Original does not work on VS2022.
+### SKRPOTHER_RPI5GPIO_TEST
+Test code for Raspberry Pi 5 GPIO using gpiod and lgpio for Python.
 
 
 
