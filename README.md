@@ -23,6 +23,8 @@ SVG image of Seiun Sky (Uma-musume)
 Test program for Interpreter, Chain of Responsibility and Strategy patterns. 
 ### SKREX003_CHOCOBAR (Feb 22 2022)
 My hand-maid Chocolate Bar!
+### SKREX004_INM_MOV_MIMICOPY
+Application for listening the INM movies.
 
 
 ## SKRPA
